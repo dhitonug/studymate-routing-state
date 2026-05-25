@@ -55,14 +55,8 @@ Buka route utama:
 http://localhost:5173/dashboard/courses
 ```
 
-## Route yang Perlu Di-screenshot
-
 1. `http://localhost:5173/dashboard/courses`
 2. `http://localhost:5173/dashboard/courses/react-router-basic`
 3. `http://localhost:5173/about`
 4. `http://localhost:5173/contact`
 5. `http://localhost:5173/tidak-ditemukan`
-
-## Catatan Pengumpulan
-
-Setelah project berjalan dan screenshot sudah dibuat, upload project ini ke GitHub public repository. Setelah itu isi link GitHub ke Google Form pengumpulan tugas.
